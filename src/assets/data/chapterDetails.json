@@ -1,31 +1,36 @@
 {
-    "ChapterName":"GDG Jalandhar",
-    "ChapterShortDescription":"Google Developers Group Jalandhar is an initiative to concentrate the efforts of many developers in and around Punjab to learn, share and get productive using the various Google products.",
-    "ChapterLongDec":"Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Jalandhar. The technology awareness is main goal for first few years of the group.",
-    "ChapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
-    "ChapterEmail":"gdgjalandhar@gmail.com",
-    "website":"https://gdgjalandhar.com",
+    "ChapterName":"GDG Reading",
+    "ChapterShortDescription":"Google Developer Group Reading is an initiative to concentrate the efforts of many developers in and around Thames Valley to learn, share and get productive using the various Google products.",
+    "ChapterLongDec":"Google Developer Group Reading is an initiative to concentrate the efforts of many developers in and around Thames Valley to learn, share and get productive using the various Google products.",
+    "ChapterMeetupLink":"https://www.meetup.com/GDG-Reading-Thames-Valley/",
+    "ChapterEmail":"N/A",
+    "website":"https://www.gdgreading.dev",
     "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGJalandhar","WTMJalandhar","GDG","WTM"],
+    "ChapterHashTags":["GDG","WTM","rdguk"],
     "socialLinks":[
         {
-            "name" : "Facebook",
-            "link" : "https://www.facebook.com/GDGJalandhar/",
-            "icon" : "fab fa-facebook"
-        },
-        {
-            "name" : "Google Plus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fab fa-google-plus"
-        },
-        {
             "name" : "Twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
+            "link" : "https://twitter.com/gdgreading",
             "icon" : "fab fa-twitter"
         },
         {
             "name" : "Meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
+            "link" : "https://www.meetup.com/GDG-Reading-Thames-Valley/",
+            "icon" : "fab fa-meetup"
+        },
+        {
+            "name" : "Meetup",
+            "link" : "https://www.meetup.com/GDG-Reading-Thames-Valley/",
+            "icon" : "fab fa-slack"
+        },
+        {
+            "name" : "Meetup",
+            "link" : "https://www.meetup.com/GDG-Reading-Thames-Valley/",
+            "icon" : "fab fa-youtube"
+        },
+        {
+            "name" : "Meetup",
+            "link" : "https://www.meetup.com/GDG-Reading-Thames-Valley/",
             "icon" : "fab fa-meetup"
         }
     ],

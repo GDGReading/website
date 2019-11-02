@@ -26,21 +26,21 @@ export default new Router({
       name: 'home',
       component: Home
     },
-    {
-      path: '/about',
-      name: 'about',
-      component: () => import('./views/About.vue')
-    },
-    {
-      path: '/team',
-      name: 'team',
-      component: () => import('./views/Team.vue')
-    },
-    {
-      path: '/events',
-      name: 'events',
-      component: () => import('./views/Events.vue')
-    },
+    // {
+    //   path: '/about',
+    //   name: 'about',
+    //   component: () => import('./views/About.vue')
+    // },
+    // {
+    //   path: '/team',
+    //   name: 'team',
+    //   component: () => import('./views/Team.vue')
+    // },
+    // {
+    //   path: '/events',
+    //   name: 'events',
+    //   component: () => import('./views/Events.vue')
+    // },
     {
       path: '/contact',
       name: 'contact',
