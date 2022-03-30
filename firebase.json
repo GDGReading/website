@@ -6,22 +6,48 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "rewrites": [ {
-      "source": "**",
-      "destination": "/index.html"
-    } ],
-    "redirects": [ {
-      "source": "/slack",
-      "destination": "https://join.slack.com/t/gdgreadinguk/shared_invite/enQtMzU1ODEzMjgwNzg4LTlmNjI1MmY2NWRjOTdkNjZkMTk0MjFiY2UyNjVlMjRkYzE5MDhhMTc2ODMwNzkwNWMwOTVkZTY2NzFiZDNhMDg",
-      "type": 302
-    }, {
-      "source": "/video",
-      "destination": "https://www.youtube.com/channel/UC0nZUldcH1GVWcEs_b2_wHQ",
-      "type": 302
-    }, {
-      "source": "/meet",
-      "destination": "https://meetup.com/GDG-Reading-Thames-Valley/",
-      "type": 302
-    } ]
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ],
+    "redirects": [
+      {
+        "source": "/slack",
+        "destination": "https://gdgreading.dev/go/slack",
+        "type": 301
+      },
+      {
+        "source": "/video",
+        "destination": "https://gdgreaidng.dev/go/video",
+        "type": 301
+      },
+      {
+        "source": "/meet",
+        "destination": "https://gdgreading.dev/go/meet",
+        "type": 301
+      },
+      {
+        "source": "/go/slack",
+        "destination": "https://join.slack.com/t/gdgreadinguk/shared_invite/enQtMzU1ODEzMjgwNzg4LTlmNjI1MmY2NWRjOTdkNjZkMTk0MjFiY2UyNjVlMjRkYzE5MDhhMTc2ODMwNzkwNWMwOTVkZTY2NzFiZDNhMDg",
+        "type": 302
+      },
+      {
+        "source": "/go/konnek",
+        "destination": "https://go.konnek.app/link/BxBG",
+        "type": 302
+      },
+      {
+        "source": "/go/video",
+        "destination": "https://www.youtube.com/channel/UC0nZUldcH1GVWcEs_b2_wHQ",
+        "type": 302
+      },
+      {
+        "source": "/go/meet",
+        "destination": "https://gdg.community.dev/gdg-reading-thames-valley/",
+        "type": 302
+      }
+    ]
   }
 }
