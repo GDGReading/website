@@ -34,6 +34,21 @@
         "type": 302
       },
       {
+        "source": "/go/speak",
+        "destination": "https://forms.gle/reZtdgrp2LDyc22LA",
+        "type": 302
+      },
+      {
+        "source": "/go/sponsor",
+        "destination": "https://forms.gle/Ss7X21PhKHgSXeAs5",
+        "type": 302
+      },
+      {
+        "source": "/go/volunteer",
+        "destination": "https://forms.gle/3vvWSX8Y6V8N1XpU7",
+        "type": 302
+      },
+      {
         "source": "/go/konnek",
         "destination": "https://go.konnek.app/link/BxBG",
         "type": 302
